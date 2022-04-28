@@ -2,6 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/SeleniumCsharpNetCore/obj
-/.vs/SeleniumCsharpNetCore/v16
-/SeleniumCsharpNetCore/bin/Debug/net5.0
+/SeleniumCsharpNetCore/obj/
+/.vs/
+/SeleniumCsharpNetCore/bin/
