@@ -9,6 +9,13 @@ namespace SeleniumCsharpNetCore
     {
         public IWebDriver Driver;
 
+        /*
+         * DB Connection String
+         * workstation id=EAEmployeeDB.mssql.somee.com;packet size=4096;user id=kartmcad_SQLLogin_1;pwd=wtzaxoan1l;data source=EAEmployeeDB.mssql.somee.com;persist security info=False;initial catalog=EAEmployeeDB
+         * public url http://eaapp.somee.com/
+         * 
+        */
+
         [SetUp]
         public void Setup()
         {
